@@ -1,0 +1,14 @@
+POST https://api.x.paotui.zanao.com/task/list HTTP/1.1
+Host: api.x.paotui.zanao.com
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+X-Pt-Td: [个人登录请求中的时间戳]
+X-Pt-Alias: [个人登录请求中的学校标识]
+X-Pt-Appid: [个人登录请求中的 AppID]
+X-Pt-Nd: [个人登录请求中的随机数]
+X-Pt-Ah: [个人登录请求中的请求签名]
+X-Pt-Version: [个人登录请求中的版本]
+X-Pt-Platform: windows
+X-Pt-Od: [个人登录请求中的登录凭证]
+
+task_status=&cur_page=1&campus_id=0

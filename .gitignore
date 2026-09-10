@@ -1,0 +1,8 @@
+task_list_raw.txt
+paotui_seen.sqlite3
+paotui_seen.sqlite3-wal
+paotui_seen.sqlite3-shm
+__pycache__/
+*.pyc
+.idea/
+.vscode/
