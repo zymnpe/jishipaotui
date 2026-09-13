@@ -6,4 +6,4 @@
 
 首先是漫长的查资料过程，找到一个和爬跑腿如出一辙的网站 https://icode.best/i/941915378046827 由于本人是个软件白痴，选择让 ai 基于这个给我生成一个可行的方向。
 
-![alt text](image.png)
+![alt text](images/image.png)
